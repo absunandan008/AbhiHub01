@@ -1,4 +1,4 @@
-👋 Hello, I'm Abhishek
+👋 Hello, I'm Abhi
 I love to learn new things and code.
 - 👨‍💻 I'm a full-stack developer/architect at NBCU
 - 🌱 I’m currently learning Google cloud platform
